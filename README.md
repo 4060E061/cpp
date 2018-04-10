@@ -1,6 +1,7 @@
 # cpp
-exercise1
-#include <iostream>
+###### exercise1:陣列存取與基本運算
+```
+ #include <iostream>
 using namespace std;
 
 int main()
@@ -32,3 +33,887 @@ int main()
   system("pause"); 
   return 0;
 }
+
+
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
+###### exercise1
+
+```
+
+
+```
