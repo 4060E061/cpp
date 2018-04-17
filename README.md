@@ -35,7 +35,7 @@ int main()
 }
 
 ```
-###### exercise2(2018.4.17)
+###### exercise陣列(2018.4.17)
 
 ```
 #include <iostream>
