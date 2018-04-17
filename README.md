@@ -1,5 +1,5 @@
 # cpp
-###### exercise1:陣列存取與基本運算
+###### exercise1:陣列存取與基本運算(2018.4.7)
 ```
  #include <iostream>
 using namespace std;
@@ -35,7 +35,7 @@ int main()
 }
 
 
-###### exercise1
+###### exercise1(2018.4.17)
 
 ```
 
