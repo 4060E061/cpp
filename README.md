@@ -76,7 +76,7 @@ int main()
 }
 
 ```
-###### exercise3球
+###### exercise3球(2018.5.1)
 
 ```
 #include <cstdlib>
