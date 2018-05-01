@@ -129,7 +129,7 @@ int main(int argc, char *argv[])
     system("PAUSE");
     return EXIT_SUCCESS;
 }
-
+![result](PIC/4.JPG)
 ```
 ###### exercise1
 
