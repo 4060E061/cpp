@@ -35,7 +35,7 @@ int main()
 }
 
 ```
-###### exercise陣列(2018.4.17)
+###### exercise2陣列(2018.4.17)
 
 ```
 #include <iostream>
@@ -76,10 +76,59 @@ int main()
 }
 
 ```
-###### exercise1
+###### exercise3球
 
 ```
+#include <cstdlib>
+#include <iostream>
 
+using namespace std;
+float sarea(float pi, int r){
+      return 4*pi*r*r;
+      }
+float svolumn(float pi, int r){
+      return 4*pi*r*r*r/3;
+      }
+int main(int argc, char *argv[])
+{
+    float pi = 3.14;
+    int q = 1;
+    int w = 2;
+    int e = 3;
+    int r = 4;
+    int t = 5;
+    int y = 6;
+    int u = 7;
+    int i = 8;
+    int o = 9;
+    int p = 10;
+    
+    
+    cout << "表面積: " << sarea(pi,q) << endl;
+    cout << "體積: " << svolumn(pi,q) << endl;
+    cout << "表面積: " << sarea(pi,w) << endl;
+    cout << "體積: " << svolumn(pi,w) << endl;
+    cout << "表面積: " << sarea(pi,e) << endl;
+    cout << "體積: " << svolumn(pi,e) << endl;
+    cout << "表面積: " << sarea(pi,r) << endl;
+    cout << "體積: " << svolumn(pi,r) << endl;
+    cout << "表面積: " << sarea(pi,t) << endl;
+    cout << "體積: " << svolumn(pi,t) << endl;
+    cout << "表面積: " << sarea(pi,y) << endl;
+    cout << "體積: " << svolumn(pi,y) << endl;
+    cout << "表面積: " << sarea(pi,u) << endl;
+    cout << "體積: " << svolumn(pi,u) << endl;
+    cout << "表面積: " << sarea(pi,i) << endl;
+    cout << "體積: " << svolumn(pi,i) << endl;
+    cout << "表面積: " << sarea(pi,o) << endl;
+    cout << "體積: " << svolumn(pi,o) << endl;
+    cout << "表面積: " << sarea(pi,p) << endl;
+    cout << "體積: " << svolumn(pi,p) << endl;
+     
+    
+    system("PAUSE");
+    return EXIT_SUCCESS;
+}
 
 ```
 ###### exercise1
